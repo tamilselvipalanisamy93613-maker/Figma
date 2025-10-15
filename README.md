@@ -153,7 +153,7 @@ page 2
 ```
 
 ## OUTPUT:
-[alt text](<Screenshot (66).png>)
+(<Screenshot (66).png>)
 
 
 
